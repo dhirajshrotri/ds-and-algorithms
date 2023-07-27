@@ -1,0 +1,12 @@
+{
+  "name": "priority_queue_tree",
+  "version": "1.0.0",
+  "description": "an implementation of priority queue using Binary Search Tree",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dhiraj shrotri <dhiraj.shrotri@gmail.com>",
+  "license": "ISC",
+  "type" : "module"
+}
