@@ -4,7 +4,7 @@ class PriorityQueue {
     constructor () {
         this.queue = new BinarySearchTree()
     }
-    insert ({data, priority}) {
+    enqueue ({data, priority}) {
         this.queue.insert({val=priority, key=data});
     }
 }
